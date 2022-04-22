@@ -2,4 +2,4 @@
 
 This is a website to present libre currencies to english-speaking folks.
 
-It is hosted at [http://libre-currencies.org](libre-currencies.org)
+It is hosted at [libre-currencies.org)[http://libre-currencies.org]
